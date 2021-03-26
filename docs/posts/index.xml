@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Research Code Review Community</title>
-        <link>https://researchcodereviewcommunity.github.io/</link>
-        <description>Research Code Review Community</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Mar 2021 18:22:42 &#43;0000</lastBuildDate>
-            <atom:link href="https://researchcodereviewcommunity.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>All Posts - Research Code Review Community</title>
+        <link>https://researchcodereviewcommunity.github.io/posts/</link>
+        <description>All Posts | Research Code Review Community</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Mar 2021 18:22:42 &#43;0000</lastBuildDate><atom:link href="https://researchcodereviewcommunity.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Who are we?</title>
     <link>https://researchcodereviewcommunity.github.io/posts/who_are_we/</link>
     <pubDate>Sat, 20 Mar 2021 18:22:42 &#43;0000</pubDate>
