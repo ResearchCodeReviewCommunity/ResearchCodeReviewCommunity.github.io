@@ -4,6 +4,8 @@
 
 This repository contains the Website for the Research Code Review Community. It is automatically built from [markdown](https://commonmark.org/) files by [Hugo](https://gohugo.io/) using [GitHub Actions](https://github.com/features/actions).
 
+This site uses the Hugo [LoveIt](https://hugoloveit.com/) theme.
+
 This site is available here:
 https://researchcodereviewcommunity.github.io/
 
