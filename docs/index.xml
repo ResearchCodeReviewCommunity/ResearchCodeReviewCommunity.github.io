@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Research Code Review Community</title>
-    <link>https://researchcodereviewcommunity.github.io/</link>
-    <description>Recent content on Research Code Review Community</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://researchcodereviewcommunity.github.io/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Research Code Review Community</title>
+        <link>https://researchcodereviewcommunity.github.io/</link>
+        <description>Research Code Review Community</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language>
+            <atom:link href="https://researchcodereviewcommunity.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
 </rss>
