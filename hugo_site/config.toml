@@ -41,6 +41,14 @@ theme = "LoveIt"
     url = "/categories/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "people"
+    pre = "<i class=\"fas fa-user-friends\"></i>"
+    post = ""
+    name = "People"
+    url = "/people/"
+    title = ""
+    weight = 4
 
 # Markup related configuration in Hugo
 [markup]
@@ -61,3 +69,7 @@ theme = "LoveIt"
       post = ""
       # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
       typeit = false
+
+[params.page.mapbox]
+  # access token of Mapbox GL JS
+  accessToken = "pk.eyJ1IjoiZmVyZ3VzY29vcGVyIiwiYSI6ImNrbXRudWpyMDB0cnkydnBtbWU5NXRrY28ifQ.0plSQ66uhgbhkhmeCnlqoQ"
