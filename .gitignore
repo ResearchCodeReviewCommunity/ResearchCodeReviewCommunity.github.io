@@ -17,3 +17,6 @@ $RECYCLE.BIN/
 
 # Linux
 .directory
+
+# Hugo executables
+hugo.exe

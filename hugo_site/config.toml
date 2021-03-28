@@ -49,3 +49,15 @@ theme = "LoveIt"
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
 
+[params.header]
+    [params.header.title]
+      # URL of the LOGO
+      logo = ""
+      # title name
+      name = "Research Code Review Community"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = "<i class=\"fas fa-code\"></i>"
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
+      typeit = false
